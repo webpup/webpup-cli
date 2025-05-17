@@ -1,6 +1,6 @@
 {
   "name": "webpup-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "license": "MIT",
   "description": "A package for creating WordPress block themes using the WebPup CLI.",
