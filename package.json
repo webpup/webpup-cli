@@ -3,24 +3,24 @@
   "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
-  "description": "A demo package for Total TypeScript",
+  "description": "A package for creating WordPress block themes using the WebPup CLI.",
   "keywords": [
-    "demo",
-    "typescript",
-    "Jest"
+    "wp-theme",
+    "cli",
+    "block theme"
   ],
-  "homepage": "https://github.com/maratib/typescript-jest-starter",
+  "homepage": "https://github.com/webpup/webpup-cli",
   "author": {
     "name": "Maratib Ali Khan",
     "email": "maratib@gmail.com",
     "url": "https://maratib.github.io"
   },
   "bugs": {
-    "url": "https://github.com/maratib/typescript-jest-starter/issues"
+    "url": "https://github.com/webpup/webpup-cli/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:maratib/typescript-jest-starter.git"
+    "url": "https://github.com/webpup/webpup-cli.git"
   },
   "bin": {
     "webpup-cli": "./src/index.js",
