@@ -1,0 +1,37 @@
+{
+  "name": "webpup-cli",
+  "version": "0.0.3",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A demo package for Total TypeScript",
+  "keywords": [
+    "demo",
+    "typescript",
+    "Jest"
+  ],
+  "homepage": "https://github.com/maratib/typescript-jest-starter",
+  "author": {
+    "name": "Maratib Ali Khan",
+    "email": "maratib@gmail.com",
+    "url": "https://maratib.github.io"
+  },
+  "bugs": {
+    "url": "https://github.com/maratib/typescript-jest-starter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:maratib/typescript-jest-starter.git"
+  },
+  "bin": {
+    "webpup-cli": "./src/index.js",
+    "webpup": "./src/index.js",
+    "pup": "./src/index.js"
+  },
+  "scripts": {
+    "dev": "pup theme your-theme"
+  },
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "yargs": "^17.7.2"
+  }
+}
